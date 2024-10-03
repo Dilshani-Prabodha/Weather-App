@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: boder-box;
     font-family: "Open Sans", sans-serif;
     color: white;
-    font font-weight: 600;
+    font-weight: 600;
 }
 
 body{
